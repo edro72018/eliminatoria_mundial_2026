@@ -11,7 +11,7 @@ const initialMatches = [
   ["🇧🇷 Brasil","🇯🇵 Japón"],
   ["🇨🇮 Costa de Marfil","🇳🇴 Noruega"],
   ["🇲🇽 México","🇪🇨 Ecuador"],
-  ["🏴 Inglaterra","🇨🇩 RD Congo"],
+  ["🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra","🇨🇩 RD Congo"],
   ["🇦🇷 Argentina","🇨🇻 Cabo Verde"],
   ["🇦🇺 Australia","🇪🇬 Egipto"],
   ["🇨🇭 Suiza","🇩🇿 Argelia"],
